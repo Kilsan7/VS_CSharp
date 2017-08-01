@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2017\Projects\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\bin\Debug\C_Sharp_Perfect_Number.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\bin\Debug\C_Sharp_Perfect_Number.exe
+c:\users\dell\documents\visual studio 2017\Projects\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\bin\Debug\C_Sharp_Perfect_Number.pdb
+c:\users\dell\documents\visual studio 2017\Projects\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\obj\Debug\C_Sharp_Perfect_Number.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\obj\Debug\C_Sharp_Perfect_Number.exe
+c:\users\dell\documents\visual studio 2017\Projects\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\obj\Debug\C_Sharp_Perfect_Number.pdb
+C:\Users\Dell\Documents\GitHub\gitMy1stProject\I. SourceCodes\1. C_Sharp Souce Codes\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\bin\Debug\C_Sharp_Perfect_Number.exe.config
+C:\Users\Dell\Documents\GitHub\gitMy1stProject\I. SourceCodes\1. C_Sharp Souce Codes\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\bin\Debug\C_Sharp_Perfect_Number.exe
+C:\Users\Dell\Documents\GitHub\gitMy1stProject\I. SourceCodes\1. C_Sharp Souce Codes\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\bin\Debug\C_Sharp_Perfect_Number.pdb
+C:\Users\Dell\Documents\GitHub\gitMy1stProject\I. SourceCodes\1. C_Sharp Souce Codes\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\obj\Debug\C_Sharp_Perfect_Number.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\gitMy1stProject\I. SourceCodes\1. C_Sharp Souce Codes\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\obj\Debug\C_Sharp_Perfect_Number.exe
+C:\Users\Dell\Documents\GitHub\gitMy1stProject\I. SourceCodes\1. C_Sharp Souce Codes\C_Sharp_Perfect_Number\C_Sharp_Perfect_Number\obj\Debug\C_Sharp_Perfect_Number.pdb

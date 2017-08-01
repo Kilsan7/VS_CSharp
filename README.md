@@ -1,0 +1,1 @@
+These are Visual Studio C++ and C# Training Examples Projects
